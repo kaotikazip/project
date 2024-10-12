@@ -2,11 +2,12 @@ body {
     font-family: Verdana, sans-serif;
     background-color: black;
     text-align: center;
-    text-decoration-color: white;
+    color: white;
 }
 
 h1 {
     font-size: 50px;
+    font-weight: normal;
 }
 
 a {
