@@ -3,6 +3,7 @@ body {
     background-color: black;
     text-align: center;
     color: white;
+    font-weight: normal;
 }
 
 h1 {
@@ -15,6 +16,17 @@ a {
     color: 16px;
 }
 
+h2 {
+    font-weight: normal;
+}
+
 h6{
     opacity: 60%;
+    font-weight: normal;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 30px 0;
 }
